@@ -1,0 +1,51 @@
+
+h1 {
+    margin: 0 0 0 0;
+    padding: 10px 0;
+    font-size: 60px;
+    text-align: center;
+    color: blue;
+    text-shadow: 3px 3px 1px gold;
+}
+
+h2 {
+    margin: 10px 5px;
+    padding: 20px 0px 5px 0px;
+    color: #3379ac;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    font-size:  large;
+    font-family: 'Open Sans', sans-serif;
+    background-color:#425664;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f6f4f2;
+    padding: 0 20px 20px 20px;
+    border: 5px solid goldenrod;
+}
+
+img {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    max-width: 50%;
+}
+
+h2.center {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
